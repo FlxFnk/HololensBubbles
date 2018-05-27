@@ -1,0 +1,1 @@
+Simple project for the Microsoft Hololens using the MixedRealityToolkit and Unity3D.
