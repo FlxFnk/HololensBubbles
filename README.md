@@ -8,4 +8,4 @@ Build and run, then click on the bubbles to make more bubbles. Click on the gree
 
 Screenshots:
 
-!(https://github.com/FlxFnk/HololensBubbles/blob/master/Screenshots/20180527_141327_HoloLens.jpg?raw=true)
+![Bubbles](https://github.com/FlxFnk/HololensBubbles/blob/master/Screenshots/20180527_141327_HoloLens.jpg?raw=true)
